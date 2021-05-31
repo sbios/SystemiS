@@ -14,7 +14,6 @@ namespace test
             Console.WriteLine("Система в которую переводим");
             int to = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(Notation.Notation.Сonversion(input, from, to));
-            // new string
         }
     }
 }
